@@ -21,14 +21,18 @@ from reality
 <a href="http://linkedin.com/in/michael-d-b5b002203">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
-<h3 align="left">Technologies Known or Familiar with:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 
 <p align="left">
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qmkDuran&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" width="415"  />
+</a>
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmkDuran)](https://github.com/qmkDuran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact)](https://github.com/qmkDuran/github-readme-stats)
 
 
