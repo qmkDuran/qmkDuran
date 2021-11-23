@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Michael Duran</h1>
 <p>The reason I code: I code because it lets me solve complex problems that my imgaination can easily piece together, but the tools I 
 use force me to work within their logic. I find this to be a fun challenge that makes me feel like an artist and engineer all at the same time. 
-The coding world is a place in which all of us can just create and tap into our inner child. I like to call it my little my littlt island away 
-from reality
+The coding world is a place in which all of us can just create and tap into our inner child. I like to call it my little island away from reality
 </p>
 
 - 🌱 I’m currently learning **React.**
