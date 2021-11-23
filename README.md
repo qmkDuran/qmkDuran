@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Duran</h1>
+<h1 align="left">Hi 👋, I'm Michael Duran</h1>
 <p>The reason I code: I code because it lets me solve complex problems that my imgaination can easily piece together, but the tools I 
 use force me to work within their logic. I find this to be a fun challenge that makes me feel like an artist and engineer all at the same time. 
 The coding world is a place in which all of us can just create and tap into our inner child. I like to call it my little my littlt island away 
@@ -18,13 +18,17 @@ from reality
 - ⚡ Fun fact **I use to fly airplanes in college.**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+<a href="http://linkedin.com/in/michael-d-b5b002203">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<h3 align="left">Technologies Known or Familiar with:</h3>
+
+
 <p align="left">
 </p>
 
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmkDuran)](https://github.com/qmkDuran/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact)](https://github.com/qmkDuran/github-readme-stats)
 
 
