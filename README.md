@@ -31,7 +31,7 @@ from reality
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qmkDuran&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" width="415"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" />
 </a>
 
 
