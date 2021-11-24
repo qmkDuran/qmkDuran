@@ -6,15 +6,14 @@ The coding world is a place in which all of us can just create and tap into our 
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Portfolio</a>
-
 - 💬 Ask me about **JavaScript, HTML & CSS.**
+
+- 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Portfolio</a>
 
 - 📫 How to reach me **duran122410@gmail.com**
 
 - 📄 Know about my experiences <a href= "https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true](https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true)">Resume</a>
 
-- ⚡ Fun fact **I use to fly airplanes in college.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="http://linkedin.com/in/michael-d-b5b002203">
