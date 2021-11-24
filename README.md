@@ -26,10 +26,10 @@ The coding world is a place in which all of us can just create and tap into our 
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qmkDuran&show_icons=true" height="180"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=qmkDuran&show_icons=true" height="180"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" height="180"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" height="180"/>
 </a>
 
 
