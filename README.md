@@ -4,8 +4,8 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwnNmyRMk&#x2F;view?utm_content=DAEwnNmyRMk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a> 
 
 <h3 align="left">Summary:</h3>
-<p>I enjoy solving complex problems that my imgaination can easily come up with, but the tools I use force me to 
-work within their logic. This to me creates a fun challenge that allows me to be an artist and an engineer at the same time.
+<p>I'm a Front End Developer that enjoys coding, it allows me to be an artist and an engineer at the same time. The best
+ thing about it, is that their is so many tools to tinker with and the world only keeps coming up with more.  
 </p>
 
 - 🌱 I’m currently learning **React.**
