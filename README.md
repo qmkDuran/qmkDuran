@@ -8,9 +8,10 @@
  thing about it, is that their is so many tools to tinker with and the world only keeps coming up with more.  
 </p>
 
-- 🌱 I’m currently learning **React.**
-
-- 💬 Ask me about **JavaScript, HTML & CSS.**
+<h3 align="left">Connect with me:</h3>
+<a href="http://linkedin.com/in/michael-d-b5b002203">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Portfolio</a>
 
@@ -18,11 +19,6 @@
 
 - 📄 Know about my experiences <a href= "https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true](https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true)">Resume</a>
 
-
-<h3 align="left">Connect with me:</h3>
-<a href="http://linkedin.com/in/michael-d-b5b002203">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
 <h3 align="left">Languages and Tools:</h3>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7c61cf24e35e3840a10b91b8510a5b02eb188d5e0f255db135ca6dca9d7e26df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174"><img alt="HTML" src="https://camo.githubusercontent.com/7c61cf24e35e3840a10b91b8510a5b02eb188d5e0f255db135ca6dca9d7e26df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/HTML-E34F26?logo=html5&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a>
