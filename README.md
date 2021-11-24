@@ -5,7 +5,7 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwnNmyRMk&#x2F;view?utm_content=DAEwnNmyRMk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Programmer</a> by Duran
 <h3 align="left">Summary:</h3>
 <p>The reason I code is because it allows me to solve complex problems that my imgaination can easily come up with, but the tools I use force me to 
-work within their logic. I find this top be a fun challenge that allows me to be an artist and an engineer at the same time. The coding world 
+work within their logic. I find this to be a fun challenge that allows me to be an artist and an engineer at the same time. The coding world 
 is a place in which all of us can just create and tap into our inner child. I like to call it my little island away from home.
 </p>
 
