@@ -30,7 +30,7 @@ The coding world is a place in which all of us can just create and tap into our 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=qmkDuran&show_icons=true" width="475"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" width="400"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&layout=compact" width="400"/>
 </a>
 
 
