@@ -10,15 +10,15 @@
 
 
 ## 🔗  Connect with me
-<a href="http://linkedin.com/in/michael-d-b5b002203">
+<a href="http://linkedin.com/in/michael-d-b5b002203" >
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-- 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html" target="_blank">Portfolio</a>
 
 - 📫 How to reach me **duran122410@gmail.com**
 
-- 📄 Know about my experiences <a href= "https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true](https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true)">Resume</a>
+- 📄 Know about my experiences <a href= "https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true](https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true)" target="_blank">Resume</a>
 
 ## 🛠 Languages and Tools
 
