@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-- 👨‍💻 All of my projects are available at <a href="https://qmkduran.github.io/Portfolio-Site/index.html" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://pedantic-wright-e43044.netlify.app/" target="_blank">Portfolio</a>
 
 - 📫 How to reach me **duran122410@gmail.com**
 
