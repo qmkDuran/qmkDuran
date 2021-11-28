@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **duran122410@gmail.com**
 
-- 📄 Know about my experiences <a href= "https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true](https://docs.google.com/document/d/1u6FmoQAGjWZmaEuQcXVmvXyjuwcCGfKL/edit?usp=sharing&ouid=108849326360230988607&rtpof=true&sd=true)" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href= "https://www.keepandshare.com/doc21/115121/jmd-resume-docx-pdf-72k?dn=y&dnad=y" target="_blank">Resume</a>
 
 ## 🛠 Languages and Tools
 
