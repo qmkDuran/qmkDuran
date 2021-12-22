@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Michael Duran</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-![Capture](https://user-images.githubusercontent.com/84324251/143177685-03cce2dd-b7d6-4841-89f3-1e024691445e.JPG)
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwnNmyRMk&#x2F;view?utm_content=DAEwnNmyRMk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a> 
+![Blue Gradient Programmer LinkedIn Banner](https://user-images.githubusercontent.com/84324251/147020741-5285525a-13ff-4ddf-8edf-ecb37b8c6b0d.png)
+
 
 ## 🚀 Summary
 <p>I'm a Front End Developer that enjoys coding, it allows me to be an artist and an engineer at the same time. The best
