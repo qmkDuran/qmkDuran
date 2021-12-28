@@ -5,7 +5,7 @@
 
 ## 🚀 Summary
 <p>I'm a Software Engineer that enjoys coding, it allows me to be an artist and an engineer at the same time. The best
- thing about it, their is so many tools to tinker with and the world only keeps coming up with more.  
+ thing about it is the vast array of tools at your disposal. 
 </p>
 
 
