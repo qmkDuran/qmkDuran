@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Michael Duran</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h1>
+<h1 align="left">Hi, I'm <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Michael Duran</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"></h1>
 
 ![Programmer](https://user-images.githubusercontent.com/84324251/147754945-d1c1e30b-073c-4b01-9458-ac7051f75287.png)
 
