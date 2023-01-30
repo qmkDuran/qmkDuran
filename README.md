@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm <a href="https://qmkduran.github.io/Portfolio-Site/index.html">Michael Duran</a></h1>
+<h1 align="left">Hi, I'm <a">Michael Duran</a></h1>
 
 ![Programmer](https://user-images.githubusercontent.com/84324251/147754945-d1c1e30b-073c-4b01-9458-ac7051f75287.png)
 
@@ -15,11 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-- 👨‍💻 All of my projects are available at <a href="https://michaeldportfolio.netlify.app/" target="_blank">Portfolio</a>
-
 - 📫 How to reach me **duran122410@gmail.com**
-
-- 📄 Know about my experiences <a href= "https://www.keepandshare.com/doc21/115121/jmd-resume-docx-pdf-72k?dn=y&dnad=y" target="_blank">Resume</a>
 
 ## 🛠 Languages and Tools
 
