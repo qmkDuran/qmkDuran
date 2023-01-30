@@ -12,9 +12,13 @@
 
 ## 🔗  Connect with me
 
-📫 How to reach me **duran122410@gmail.com** or <a href="http://linkedin.com/in/michael-d-b5b002203" >
+📫 How to reach me **duran122410@gmail.com** or 
+
+<div>
+<a href="http://linkedin.com/in/michael-d-b5b002203" >
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&langs_count=8)](https://github.com/qmkDuran/github-readme-stats)
