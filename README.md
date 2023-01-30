@@ -11,11 +11,8 @@
 
 
 ## 🔗  Connect with me
-<a href="http://linkedin.com/in/michael-d-b5b002203" >
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
 
-- 📫 How to reach me **duran122410@gmail.com** or <a href="http://linkedin.com/in/michael-d-b5b002203" >
+📫 How to reach me **duran122410@gmail.com** or <a href="http://linkedin.com/in/michael-d-b5b002203" >
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
