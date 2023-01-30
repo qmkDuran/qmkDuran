@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </div>
-
- 
- 
+<div></div>
+<div></div>
+<div></div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&langs_count=8)](https://github.com/qmkDuran/github-readme-stats)
 
