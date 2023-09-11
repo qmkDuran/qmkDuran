@@ -20,8 +20,6 @@
 </a>
 </div>
 <div>&nbsp</div>
- 
-<h3 align="left">Languages and Tools:</h3>
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmkDuran&langs_count=8)](https://github.com/qmkDuran/github-readme-stats)
