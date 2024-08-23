@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm <a">Michael Duran</a></h1>
 
-![Programmer](https://user-images.githubusercontent.com/84324251/147754945-d1c1e30b-073c-4b01-9458-ac7051f75287.png)
+![Programmer](https://media.licdn.com/dms/image/v2/D4D16AQEAxEjMtLsFLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716484984333?e=1729728000&v=beta&t=v6zWi8pGZaBy9ra2tC3C4qaV5VKUKlReoN1XFpLjfHY)
 
 
 
