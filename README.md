@@ -12,7 +12,7 @@
 📫 How to reach me **duran122410@gmail.com** or 
 
 <div>
-<a href="http://linkedin.com/in/michael-d-b5b002203" >
+<a href="http://linkedin.com/in/michael-d-b5b002203](https://www.linkedin.com/in/michael-duran-engineer" >
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </div>
